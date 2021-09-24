@@ -1,0 +1,7 @@
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\bin\Debug\Mission2Banque.exe.config
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\bin\Debug\Mission2Banque.exe
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\bin\Debug\Mission2Banque.pdb
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\obj\Debug\Mission2Banque.csproj.AssemblyReference.cache
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\obj\Debug\Mission2Banque.csproj.CoreCompileInputs.cache
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\obj\Debug\Mission2Banque.exe
+C:\Users\thimon_k\source\repos\Mission2Banque\Mission2Banque\obj\Debug\Mission2Banque.pdb
